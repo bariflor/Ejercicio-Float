@@ -1,0 +1,92 @@
+body{
+	background: url(https://i.pinimg.com/736x/c8/e4/53/c8e453577c072240a1c02387bea87b46--abstract-flowers-flower-wallpaper.jpg);
+}
+p {
+	font-size: 1.5em;
+	text-align: justify;
+}
+img{
+	height: 150px;
+}
+.html{
+	margin: 0 1.8rem;
+	float: left;
+}
+.css{
+	float: right;
+}
+div{
+	margin: 10px;
+	text-align: center;
+	float: left;
+	display: inline-block;
+	color: white;
+}
+#contenedor{
+	width: 440px;
+}
+.uno{
+	width: 300px;
+	height: 300px;
+	background-color: skyblue;
+}
+.otro{
+	width: 	100px;
+	height: 100px;
+	background-color: purple;
+}
+.clear-left{
+	clear: left;
+}
+
+*{
+	box-sizing: border-box;
+}
+#foto{
+	height: 100px;
+	float: left;
+}
+#datos{
+	width: 240px;
+	border: 1px solid black;
+}
+h3{
+	color: black;
+	 font-size: 20;
+
+}
+.limpiar{
+	width: 100%;
+}
+.texto{
+	color: black;
+	text-align: center;
+	font-size: 16px;
+}
+.limpiar{
+	padding: 30px;
+}
+.anterior {
+	float: left;
+}
+.siguiente{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+
+/* Comment */
+.corazon{
+	overflow: auto;
+	border: 1px solid black;
+}
+#heart{
+	border: 2px solid red;
+	color: black;
+	
+}
+#gifCo{
+	float: right;
+
+}
